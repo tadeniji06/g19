@@ -1,3 +1,4 @@
+import CTA from "@/components/CTA";
 import Hero from "@/components/home/Hero";
 import WhatWeDo from "@/components/home/WhatWeDo";
 import WhoWeAre from "@/components/home/WhoWeAre";
@@ -10,6 +11,7 @@ const page = () => {
 			<WhoWeAre />
 			<WhatWeDo />
 			<WhyChooseUs />
+			<CTA />
 		</div>
 	);
 };

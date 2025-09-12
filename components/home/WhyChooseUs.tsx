@@ -34,7 +34,7 @@ const WhyChooseUs = () => {
 									icon='lets-icons:check-fill'
 									className='text-primary-blue text-2xl flex-shrink-0'
 								/>
-								<p className='text-gray-700 leading-relaxed'>
+								<p className='md:text-gray-700 text-white leading-relaxed'>
 									<span className='font-semibold'>{why.title}:</span>{" "}
 									{why.desc}
 								</p>
