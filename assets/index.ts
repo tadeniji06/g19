@@ -4,4 +4,7 @@ import neg from "./neg.jpg";
 import w from "./w.jpg";
 import map from "./map.png";
 import gw from "./gw.jpg";
-export { logo, heroImg, neg, w, map, gw };
+import advise from "./advise.png";
+import infra from "./infra.png";
+import tele from "./telecom.png";
+export { logo, heroImg, neg, w, map, gw, advise, infra, tele };
