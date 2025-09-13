@@ -4,12 +4,12 @@ export const headerLinks = [
 		link: "/",
 	},
 	{
-		title: "About Us",
-		link: "/about",
-	},
-	{
 		title: "Services",
 		link: "/services",
+	},
+	{
+		title: "About Us",
+		link: "/about",
 	},
 	{
 		title: "Contact Us",
@@ -82,4 +82,3 @@ export const reviews = [
 		pos: "Managing Director, UK Infrastructure Firm",
 	},
 ];
-
