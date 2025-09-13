@@ -26,7 +26,7 @@ const Hero = () => {
 				</div>
 
 				{/* Image Section */}
-				<div className='flex justify-center'>
+				<div className='hidden md:flex justify-center'>
 					<Image
 						src={heroImg}
 						alt='Hero Image'
