@@ -34,7 +34,7 @@ const Contact = () => {
 							</p>
 							<a
 								href='mailto:garethwilliams@g19.com'
-								className='text-primary-blue underline'
+								className='text-white underline'
 							>
 								garethwilliams@g19.com
 							</a>
@@ -47,7 +47,7 @@ const Contact = () => {
 							</p>
 							<a
 								href='tel:+2348186001313'
-								className='text-primary-blue underline'
+								className='text-white underline'
 							>
 								+234 8186001313
 							</a>
