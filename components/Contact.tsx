@@ -23,7 +23,7 @@ const Contact = () => {
 						<div>
 							<p className='font-medium'>Visit Us:</p>
 							<p className='text-sm text-gray-300'>
-								MaryLand, Lagos state
+							Manchester, UK
 							</p>
 						</div>
 
@@ -46,10 +46,10 @@ const Contact = () => {
 								Mon – Fri, 8am – 5pm
 							</p>
 							<a
-								href='tel:+2348186001313'
+								href='tel:+447725686317'
 								className='text-white underline'
 							>
-								+234 8186001313
+								+447725686317
 							</a>
 						</div>
 
