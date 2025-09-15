@@ -27,7 +27,7 @@ const Contact = () => {
 							</p>
 						</div>
 
-						<div>
+						{/* <div>
 							<p className='font-medium'>Chat Us:</p>
 							<p className='text-sm text-gray-300'>
 								Our friendly team is here to help
@@ -38,7 +38,7 @@ const Contact = () => {
 							>
 								garethwilliams@g19.com
 							</a>
-						</div>
+						</div> */}
 
 						<div>
 							<p className='font-medium'>Call Us:</p>
